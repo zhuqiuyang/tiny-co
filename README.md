@@ -1,5 +1,4 @@
 # tiny-co
-[![NPM version][npm-image]][npm-url]
 One Generator control flow absort idea from tj/co
 
 ## miletone 
