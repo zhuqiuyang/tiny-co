@@ -1,6 +1,6 @@
 {
   "name": "tiny-co",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "a control flow for js generator function.",
   "main": "index.js",
   "scripts": {
