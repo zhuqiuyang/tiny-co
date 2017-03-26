@@ -1,0 +1,24 @@
+{
+  "name": "tiny-co",
+  "version": "0.0.1",
+  "description": "a control flow for js generator function.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhuqiuyang/tiny-co.git"
+  },
+  "keywords": [
+    "tiny-co",
+    "generator",
+    "javascript"
+  ],
+  "author": "zhuqiuyang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhuqiuyang/tiny-co/issues"
+  },
+  "homepage": "https://github.com/zhuqiuyang/tiny-co#readme"
+}
